@@ -16,4 +16,4 @@ A mobile-first, offline-accessible application that helps individuals locate nea
 
 ---
 
-Created by Chaitali Vasist and Chamili Suresh ❤️
+Created by Chaitali Vasist and Chamili Suresh 
