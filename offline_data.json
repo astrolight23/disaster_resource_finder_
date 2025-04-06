@@ -1,0 +1,50 @@
+{
+    "resources": [
+      {
+        "type": "shelter",
+        "name": "Hoodi Urban Homeless Shelter",
+        "address": "BBMP Samparka Kendra, Mahadevapura Post, Ward No-54, Bangalore-560036",
+        "contact": "Mr. Ananadh - 9845479318",
+        "latitude": 12.9960,
+        "longitude": 77.7130,
+        "status": "Available"
+      },
+      {
+        "type": "shelter",
+        "name": "Nele Narendra",
+        "address": "No. 9/2, Lakshmidevi Nagara Main Road, Opp Veena Education Trust, Laggere, Bengaluru, Karnataka 560096",
+        "contact": "080 2837 1474",
+        "latitude": 13.0110,
+        "longitude": 77.5140,
+        "status": "Available"
+      },
+      {
+        "type": "medical",
+        "name": "Bangalore Hospice Trust",
+        "address": "Old Airport - Varthur Main Road, Next to Shankara Eye Hospital, Kundalahalli Gate, Marathahalli, Bengaluru, Karnataka 560037",
+        "contact": "Not Available",
+        "latitude": 12.9563,
+        "longitude": 77.7010,
+        "status": "Available"
+      },
+      {
+        "type": "shelter",
+        "name": "Nammane Open Shelter - APSA",
+        "address": "Dinnur Main Rd, Kauser Nagar, Dinnur, Ganga Nagar, Bengaluru, Karnataka 560032",
+        "contact": "080 2333 4515",
+        "latitude": 13.0350,
+        "longitude": 77.5940,
+        "status": "Available"
+      },
+      {
+        "type": "shelter",
+        "name": "Home of Hope",
+        "address": "Chikkagubbi Village, Chikkagubbi, Karnataka 560077",
+        "contact": "080 2846 5899",
+        "latitude": 13.0840,
+        "longitude": 77.6830,
+        "status": "Available"
+      }
+    ]
+  }
+  
